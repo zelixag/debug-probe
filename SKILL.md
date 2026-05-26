@@ -1,5 +1,6 @@
 ---
 name: debug-probe
+version: 1.0.0
 description: Hypothesis-driven runtime debugging with precise instrumentation. Use when debugging bugs, anomalies, or unexpected behavior where static code analysis is insufficient. 6-phase loop: hypothesize → instrument → reproduce → converge → fix → clean up. Triggers on: debug, diagnose, broken, bug, not working, unexpected behavior, investigate, root cause, probe.
 ---
 
